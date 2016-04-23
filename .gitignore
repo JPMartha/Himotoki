@@ -65,3 +65,5 @@ fastlane/report.xml
 fastlane/screenshots
 
 
+# Fix-it
+swiftbuild-fixit
